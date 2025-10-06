@@ -2,23 +2,30 @@
   "companies": [
     {
       "title": "eBook Ordering System",
-      "duration": "December 13 2023",
+      "duration": "December 2023",
       "desc": [
         "An eBook Ordering System is a digital platform designed to streamline the process of purchasing and managing electronic books. Users can browse a vast catalog of eBooks, view detailed descriptions and reviews, and make secure transactions directly through the system. The platform typically features options to filter searches by genre, author, or price, and often supports various payment methods. Once purchased, eBooks can be downloaded to a device or accessed via a cloud-based reader, allowing users to enjoy their books anytime, anywhere. The system may also include features like reading progress synchronization, bookmarks, and personalized recommendations to enhance the reading experience."
       ]
     },
     {
+      "title": "Expense Tracker",
+      "duration": "March 2014",
+      "desc": [
+        "An Expense Tracker System is a digital tool designed to help individuals or businesses monitor and manage their financial expenditures. It allows users to record, categorize, and analyze their spending habits in real time. Features typically include the ability to set budgets, track transactions through various accounts, generate detailed reports, and visualize spending patterns through charts and graphs. By providing insights into spending behavior and financial trends, the system helps users make informed decisions, control costs, and achieve their financial goals more effectively."
+      ]
+    },
+    {
       "title": "Event Ticketing",
-      "duration": "May 23 2024",
+      "duration": "May 2024",
       "desc": [
         "An online platform where users can discover, purchase, and manage tickets for a wide range of events, including concerts, sports matches, theater performances, and more. It offers a user-friendly interface for browsing events by date, location, or category, and provides detailed information about each event. Users can select their preferred seats or ticket types, make secure payments, and receive electronic tickets or booking confirmations. The website often includes features for event organizers to set up and promote their events, track sales, and manage attendee lists, ensuring an efficient and seamless ticketing process for both buyers and sellers."
       ]
     },
     {
-      "title": "Expense Tracker",
-      "duration": "March 12 2014",
+      "title": "Trucking Services: Online Freight Management System",
+      "duration": "Aug 2024",
       "desc": [
-        "An Expense Tracker System is a digital tool designed to help individuals or businesses monitor and manage their financial expenditures. It allows users to record, categorize, and analyze their spending habits in real time. Features typically include the ability to set budgets, track transactions through various accounts, generate detailed reports, and visualize spending patterns through charts and graphs. By providing insights into spending behavior and financial trends, the system helps users make informed decisions, control costs, and achieve their financial goals more effectively."
+        "A web-based application that can be used for enhancing trucking Services' freight management operations. It is a platform for central repository for managing customer interactions, fleep operations, route planning, inventory and shipment tracking, and document management. This website will replace the old-fashioned manual paper-based of keeping records of deliveries which also allows customers to fill out a form in order to request a deliver."
       ]
     }
   ]

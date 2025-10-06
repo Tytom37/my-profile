@@ -3,19 +3,15 @@
     { "birthday": "10 Oct 2002" },
     {
       "website": "<a>Doesn't have a Website</a>"
-    },
-    { "phone": "+63 948-886-9714" },
-    { "address": "Pooc Oriental, Tubigon, Bohol, Philippines" }
+    }
   ],
   "data_2": [
-    { "age": 21 },
-    { "degree": "B.S. Information Technology" },
-    { "email": "<a href='mailto:someone@example.com'>thitomangelo123@gmail.com</a>" },
-    { "freelance": "Still a Student" }
+    { "age": 22 },
+    { "degree": "B.S. Information Technology" }
   ],
   "data_3": [
     "Pooc Oriental, Tubigon, Bohol, Philippines",
-    "+63 948-886-9714",
+    "+63 956-220-6708",
     "<a href='mailto:someone@example.com'>thitomangelo123@gmail.com</a>"
   ],
   "data_4": [

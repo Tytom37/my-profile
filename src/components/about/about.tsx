@@ -11,7 +11,7 @@ import { ABOUT_TEXT_1, ABOUT_TEXT_2, ABOUT_TEXT_3 } from 'constants/common';
 import Profiles from 'jsons/profiles.json';
 
 // Assets
-import ProfileImg from 'assets/img/profile-picture.jpg';
+import ProfileImg from 'assets/img/thitom_buligan.jpg';
 
 // Styles
 import './about.scss';
@@ -50,7 +50,7 @@ const About = () => {
             <img src={ProfileImg} className="img-fluid" alt="" />
           </div>
           <div className="col-lg-8 pt-4 pt-lg-0 content">
-            <h3>Aspiring Full Stack Developer (ReactJS / NodeJS)</h3>
+            <h3>Aspiring Web Developer</h3>
             <p className="fst-italic">{ABOUT_TEXT_2}</p>
             <div className="row">
               <div className="col-lg-6">
